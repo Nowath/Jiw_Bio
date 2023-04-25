@@ -53,6 +53,7 @@
     justify-content: center;
 }
 .all_btn a{
+    cursor:pointer;
     text-decoration: none;
     font-family: 'Jost', sans-serif;
     color:black;
